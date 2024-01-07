@@ -11,7 +11,8 @@ The interactive web application is designed to provide real-time satellite infor
 1. **User-Friendly Interface** : Streamlit-powered interface with background images from space, enhancing user experience.
 
 ## Preview Image
-![spacesatcoord](https://github.com/dlaskowski23/Girlhacks23-app/assets/123746346/ec9c3100-29c4-489e-805e-37b134ff6ee8)
+
+![spacesatcoord](https://github.com/dlaskowski23/SpaceSatelliteCoordinator/assets/123746346/9e11e3ca-0ee1-43c4-9223-8c67ff02e3eb)
 
 
 ## Installation
